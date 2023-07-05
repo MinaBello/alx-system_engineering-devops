@@ -1,1 +1,3 @@
-0x00. Shell, basics
+Shell Scripting Basics Exercises
+
+Exercise 0: pwd === print working directory
